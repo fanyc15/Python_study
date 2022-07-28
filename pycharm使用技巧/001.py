@@ -44,6 +44,7 @@ def say(self):
 
 # 14.打开文件  右键打开于explorer
 
+
 # 15 ctrl + shift F10  运行
 
 # 16.   右下角 视图模式 浮动
